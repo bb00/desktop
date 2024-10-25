@@ -108,15 +108,15 @@ Zen couldn't be in its current state without the help of these amazing projects!
 ### 🖥️ Comparison with other browsers
 
 As you can see, chromium based browsers are the most popular browsers, help us change that by starring the project and spreading the word! 🌟
+## Star History
 
-<a href="https://star-history.com/#zen-browser/desktop&Date">
+<a href="https://star-history.com/#chromium/chromium&zen-browser/desktop&brave/brave-browser&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zen-browser/desktop,chromium/chromium,brave/brave-browser&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zen-browser/desktop,chromium/chromium,brave/brave-browser&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=chromium/chromium,zen-browser/desktop,brave/brave-browser&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=chromium/chromium,zen-browser/desktop,brave/brave-browser&type=Date&theme=dark&secret=Z2hwX1lsOUZuRnpQRHp0RmF5TTJJQnIyb1VJQXRjZHhHTDBPOXNWYw%3d%3d" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=chromium/chromium,zen-browser/desktop,brave/brave-browser&type=Date&secret=Z2hwX1lsOUZuRnpQRHp0RmF5TTJJQnIyb1VJQXRjZHhHTDBPOXNWYw%3d%3d" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=chromium/chromium,zen-browser/desktop,brave/brave-browser&type=Date&secret=Z2hwX1lsOUZuRnpQRHp0RmF5TTJJQnIyb1VJQXRjZHhHTDBPOXNWYw%3d%3d" />
  </picture>
 </a>
-
 ## 📄 License
 
 Zen browser is under the [MPL LICENSE](./LICENSE). All the code is open-source and free to use! Attributions are appreciated but not required.
